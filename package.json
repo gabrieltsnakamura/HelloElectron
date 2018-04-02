@@ -1,0 +1,14 @@
+{
+  "name": "helloelectron",
+  "version": "1.0.0",
+  "description": "A brief introduction to Electron framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gabriel Tsunea Siqueira Nakamura",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
